@@ -116,7 +116,7 @@ var CryptoJS = sim.crypto;
 ```
 See their <a href="https://cryptojs.gitbook.io/docs/">documentation</a> also.
 
-##Browser Support
+## Browser Support
 
 It gives support to browser also.
 to access it do the following steps:
