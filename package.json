@@ -1,6 +1,6 @@
 {
   "name": "simenc",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "main": "./lib/index.js",
   "scripts": {
     "test": "npm i simenc"
@@ -24,5 +24,16 @@
   "description": "A tool for encryption *will be used in heed*",
   "devDependencies": {
     "tinyify": "^3.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livrang/simenc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/livrang/simenc/issues"
+  },
+  "homepage": "https://github.com/livrang/simenc#readme"
 }
