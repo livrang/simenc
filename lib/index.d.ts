@@ -1,0 +1,26 @@
+import * as crypto from "crypto-js";
+export { crypto };
+export declare function SHA1(Data: any): any;
+export declare function SHA256(Data: any): any;
+export declare function SHA512(Data: any): any;
+export declare function MD5(Data: any): any;
+export declare function hash(Data: any): any;
+export declare function random(length: any, type: any): string;
+export declare function AES(Data: any, key: any): any;
+export declare function DES(Data: any, key: any): any;
+export declare function TripleDES(Data: any, key: any): any;
+export declare function RC4(Data: any, key: any): any;
+export declare function RC4Drop(Data: any, key: any): any;
+export declare function Rabbit(Data: any, key: any): any;
+export declare function RabbitLegacy(Data: any, key: any): any;
+export declare function encrypt(Data: any, key: any): any;
+export declare function decAES(Data: any, key: any): any;
+export declare function decDES(Data: any, key: any): any;
+export declare function decTripleDES(Data: any, key: any): any;
+export declare function decRC4(Data: any, key: any): any;
+export declare function decRC4Drop(Data: any, key: any): any;
+export declare function decRabbit(Data: any, key: any): any;
+export declare function decRabbitLegacy(Data: any, key: any): any;
+export declare function decrypt(Data: any, key: any): any;
+export declare function change(Data: string, Key: string): string;
+//# sourceMappingURL=index.d.ts.map

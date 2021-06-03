@@ -1,0 +1,28 @@
+{
+  "name": "simenc",
+  "version": "2.0.2",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "npm i simenc"
+  },
+  "author": "Mridul Thakur",
+  "license": "MIT",
+  "dependencies": {
+    "@types/crypto-js": "^4.0.1",
+    "browserify": "^17.0.0",
+    "crypto-js": "^4.0.0"
+  },
+  "keywords": [
+    "encryption",
+    "simenc",
+    "cryption",
+    "crypto",
+    "crypto-js",
+    "simencts",
+    "simenctypecript"
+  ],
+  "description": "A tool for encryption *will be used in heed*",
+  "devDependencies": {
+    "tinyify": "^3.0.0"
+  }
+}
