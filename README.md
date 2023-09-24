@@ -51,7 +51,7 @@ console.log(encdata.toString())	//console encrypted data
 console.log(decrypt(encdata,key)) //console decrypted 
 ```
 ## Limitations
-It does not allow you to Utf8 to Utf16 or anything else.The default encoding for data is Utf8. You can't set iv,padding or anything else while encrypting.But whatever, These things does not matter so much ans also they will resolved in future.These are not added because i want beginners to use this and most of the beginners don't know about padding or iv. Also, **it is not only for beginners it is for everyone who want to secure their data.**
+It does not allow you to Utf8 to Utf16 or anything else.The default encoding for data is Utf8. You can't set iv,padding or anything else while encrypting.But whatever, These things does not matter so much and also they will resolved in future.These are not added because i want beginners to use this and most of the beginners don't know about padding or iv. Also, **it is not only for beginners it is for everyone who want to secure their data.**
 ## Future
 In the future most of other features will be added like : **diffie hellman, changing encoding type, using iv and other properties of encryption**.In the future i will launch a version of it for **python** and **java**.So,keep awaited because we make cryptography easy.
 ## Docs
